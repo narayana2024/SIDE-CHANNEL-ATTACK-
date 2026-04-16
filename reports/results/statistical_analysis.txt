@@ -1,0 +1,71 @@
+=== RBDD RIGOROUS STATISTICAL VALIDATION REPORT ===
+Parameters: 10 runs, Bonferroni alpha: 0.0042
+
+METRIC: ACCESS RESTRICTION
+--------------------------------------------------
+RBDD: Mean=97.00, CI=(97.0, 97.0)
+
+  vs MLE:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (76.0, 76.0)
+  vs MPT:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (82.0, 82.0)
+  vs SD2M:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (85.0, 85.0)
+
+METRIC: DATA DEDUPLICATION
+--------------------------------------------------
+RBDD: Mean=95.00, CI=(95.0, 95.0)
+
+  vs MLE:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (71.0, 71.0)
+  vs MPT:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (76.0, 76.0)
+  vs SD2M:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (81.0, 81.0)
+
+METRIC: ENCRYPTION DECRYPTION
+--------------------------------------------------
+RBDD: Mean=95.00, CI=(95.0, 95.0)
+
+  vs MLE:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (72.0, 72.0)
+  vs MPT:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (78.0, 78.0)
+  vs SD2M:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (83.0, 83.0)
+
+METRIC: TIME COMPLEXITY
+--------------------------------------------------
+RBDD: Mean=23.00, CI=(23.0, 23.0)
+
+  vs MLE:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (62.0, 62.0)
+  vs MPT:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (58.0, 58.0)
+  vs SD2M:
+    p-value: 0.0000e+00 [SIGNIFICANT]
+    Cohen's d: 0.00
+    95% CI: (52.0, 52.0)
+

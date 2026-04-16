@@ -1,0 +1,190 @@
+{
+  "alpha": 0.05,
+  "corrected_alpha": 0.004166666666666667,
+  "results": {
+    "access_restriction": {
+      "RBDD": {
+        "mean": 97.0,
+        "std": 0.0,
+        "ci_95": [
+          97.0,
+          97.0
+        ]
+      },
+      "MLE": {
+        "mean": 76.0,
+        "std": 0.0,
+        "ci_95": [
+          76.0,
+          76.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "MPT": {
+        "mean": 82.0,
+        "std": 0.0,
+        "ci_95": [
+          82.0,
+          82.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "SD2M": {
+        "mean": 85.0,
+        "std": 0.0,
+        "ci_95": [
+          85.0,
+          85.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      }
+    },
+    "data_deduplication": {
+      "RBDD": {
+        "mean": 95.0,
+        "std": 0.0,
+        "ci_95": [
+          95.0,
+          95.0
+        ]
+      },
+      "MLE": {
+        "mean": 71.0,
+        "std": 0.0,
+        "ci_95": [
+          71.0,
+          71.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "MPT": {
+        "mean": 76.0,
+        "std": 0.0,
+        "ci_95": [
+          76.0,
+          76.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "SD2M": {
+        "mean": 81.0,
+        "std": 0.0,
+        "ci_95": [
+          81.0,
+          81.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      }
+    },
+    "encryption_decryption": {
+      "RBDD": {
+        "mean": 95.0,
+        "std": 0.0,
+        "ci_95": [
+          95.0,
+          95.0
+        ]
+      },
+      "MLE": {
+        "mean": 72.0,
+        "std": 0.0,
+        "ci_95": [
+          72.0,
+          72.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "MPT": {
+        "mean": 78.0,
+        "std": 0.0,
+        "ci_95": [
+          78.0,
+          78.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "SD2M": {
+        "mean": 83.0,
+        "std": 0.0,
+        "ci_95": [
+          83.0,
+          83.0
+        ],
+        "t_statistic": Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      }
+    },
+    "time_complexity": {
+      "RBDD": {
+        "mean": 23.0,
+        "std": 0.0,
+        "ci_95": [
+          23.0,
+          23.0
+        ]
+      },
+      "MLE": {
+        "mean": 62.0,
+        "std": 0.0,
+        "ci_95": [
+          62.0,
+          62.0
+        ],
+        "t_statistic": -Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "MPT": {
+        "mean": 58.0,
+        "std": 0.0,
+        "ci_95": [
+          58.0,
+          58.0
+        ],
+        "t_statistic": -Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      },
+      "SD2M": {
+        "mean": 52.0,
+        "std": 0.0,
+        "ci_95": [
+          52.0,
+          52.0
+        ],
+        "t_statistic": -Infinity,
+        "p_value": 0.0,
+        "cohens_d": 0.0,
+        "significant": true
+      }
+    }
+  }
+}
