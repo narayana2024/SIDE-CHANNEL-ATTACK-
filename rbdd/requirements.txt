@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+pycryptodome
+loguru
+pytest
+scipy
+tabulate
